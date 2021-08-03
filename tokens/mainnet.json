@@ -2678,5 +2678,13 @@
     "symbol": "YGG",
     "decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png"
+  },
+	{
+    "chainId": 1,
+    "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+    "name": "Coin98",
+    "symbol": "C98",
+    "decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xae12c5930881c53715b369cec7606b70d8eb229f/logo.png"
   }
 ]
